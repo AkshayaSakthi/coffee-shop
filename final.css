@@ -1,0 +1,21 @@
+.navbar-brand img{
+    height: 50px;
+    object-fit: cover;
+    border-radius: none;
+
+}
+.coffee img{
+    height: 250px;
+}
+.brew img{
+    height:250px;
+}
+.body{
+    background-color: linen;
+}
+.section div {
+    
+    box-shadow: rgba(124, 5, 5, 0.24) 0px 3px 8px;
+    height: 100%;
+
+}
